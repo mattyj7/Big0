@@ -1,0 +1,17 @@
+/*ROOT*/
+body, ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    float: left;
+    list-style: none;
+}
+
+#header {
+    margin: 0px;
+    width: 100%;
+    height: 50px;
+    background-color: azure;
+}
